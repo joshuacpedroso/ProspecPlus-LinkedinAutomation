@@ -1,0 +1,29 @@
+﻿<Page x:Class="prospecplus_interface.entities.Views.login"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:prospecplus_interface.entities.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="900"
+      Title="login">
+
+    <Grid Background="#FF2F2F2F">
+        <Grid MinWidth="400" MaxWidth="900" HorizontalAlignment="Left" Width="450">
+            <Grid.Background>
+                <ImageBrush ImageSource="/images/background_login.jpg" Stretch="Fill"/>
+            </Grid.Background>
+            <TextBlock x:Name="titulo_naotem" HorizontalAlignment="Center" Margin="0,132,0,0" TextWrapping="Wrap" Text="Não tem uma assinatura?" VerticalAlignment="Top" Width="266" Height="98" Foreground="White" FontSize="36" FontWeight="Bold" TextAlignment="Center"/>
+            <TextBlock x:Name="subtitulo_naotem" HorizontalAlignment="Center" Margin="0,230,0,0" TextWrapping="Wrap" Text="Assine agora e desfrute do nosso programa " VerticalAlignment="Top" Width="174" Height="103" TextAlignment="Center" FontSize="22" Foreground="White"/>
+            <Button x:Name="button_naotem" Content="Assine agora" HorizontalAlignment="Center" Margin="0,333,0,0" VerticalAlignment="Top" Width="114" Height="28" Background="#00DDDDDD" BorderBrush="Gainsboro" Foreground="White" FontSize="16"/>
+        </Grid>
+        <Grid Margin="455,0,0,0">
+            <Label x:Name="titulo_bemvindo" Content="Bem Vindo(a)" HorizontalAlignment="Center" Margin="0,142,0,0" VerticalAlignment="Top" Foreground="#FFE8E8E8" FontSize="22"/>
+            <TextBox x:Name="email" LostFocus="Login_LostFocusE" GotFocus="Login_GotFocus"  HorizontalAlignment="Center" TextWrapping="Wrap" Text="Email" VerticalAlignment="Top" Width="304" Height="30" Margin="0,220,0,0" Background="Transparent" BorderBrush="White" BorderThickness="0,0,0,1" FontSize="18" Foreground="#FFECECEC"/>
+            <TextBox x:Name="senha" LostFocus="Login_LostFocusS" GotFocus="Login_GotFocus" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Senha" VerticalAlignment="Top" Width="304" Height="30" Margin="0,281,0,0" Background="Transparent" BorderBrush="White" BorderThickness="0,0,0,1" FontSize="18" Foreground="#FFECECEC"/>
+            <Button x:Name="entrar" Content="Entrar" HorizontalAlignment="Center" Margin="0,350,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.388,0.601" Width="187" Height="34" Background="#01DDDDDD" BorderBrush="White" Foreground="#FFF9F9F9" Click="entrar_Click"/>
+            <CheckBox x:Name="conectado" Content="Ficar conectado?" Margin="0,316,0,0" Foreground="White" Width="109" VerticalContentAlignment="Center" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+        </Grid>
+
+    </Grid>
+</Page>

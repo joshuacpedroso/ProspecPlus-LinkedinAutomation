@@ -1,0 +1,90 @@
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\bin\Debug\net6.0-windows\prospecplus-interface.exe
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\bin\Debug\net6.0-windows\prospecplus-interface.deps.json
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\bin\Debug\net6.0-windows\prospecplus-interface.runtimeconfig.json
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\bin\Debug\net6.0-windows\prospecplus-interface.dll
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\bin\Debug\net6.0-windows\prospecplus-interface.pdb
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\prospecplus-interface.csproj.AssemblyReference.cache
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\App.g.cs
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\prospecplus-interface_MarkupCompile.cache
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\prospecplus-interface_MarkupCompile.lref
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\prospecplus-interface.g.resources
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\prospecplus-interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\prospecplus-interface.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\prospecplus-interface.AssemblyInfo.cs
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\prospecplus-interface.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\prospecplus-interface.dll
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\refint\prospecplus-interface.dll
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\prospecplus-interface.pdb
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\prospecplus-interface.genruntimeconfig.cache
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\ref\prospecplus-interface.dll
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\Page1.g.cs
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\Page1.baml
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\PageHome.g.cs
+F:\Microsoft Visual Studio\Projetos\Last Code\prospecplus-interface\prospecplus-interface\obj\Debug\net6.0-windows\PageHome.baml
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\prospecplus-interface.exe
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\prospecplus-interface.deps.json
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\prospecplus-interface.runtimeconfig.json
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\prospecplus-interface.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\prospecplus-interface.pdb
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface.csproj.AssemblyReference.cache
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface_MarkupCompile.cache
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface_MarkupCompile.lref
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface.g.resources
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface.AssemblyInfoInputs.cache
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface.AssemblyInfo.cs
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface.csproj.CoreCompileInputs.cache
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\refint\prospecplus-interface.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface.pdb
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface.genruntimeconfig.cache
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\ref\prospecplus-interface.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\inicio.g.cs
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\inicio.baml
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\subs\home.g.cs
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\subs\home.baml
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\subs\config.g.cs
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\subs\config.baml
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\carregamento.g.cs
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\carregamento.baml
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface.csproj.CopyComplete
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\SeleniumExtras.WaitHelpers.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\login.g.cs
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\login.baml
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\Modals\changelog.g.cs
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\entities\Views\Modals\changelog.baml
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus-interface.csproj.GenerateResource.cache
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\pt-BR\prospecplus-interface.resources.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus_interface.Resources.Strings.pt-BR.resources
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\pt-BR\prospecplus-interface.resources.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\en-US\prospecplus-interface.resources.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus_interface.Resources.Strings.en-US.resources
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\en-US\prospecplus-interface.resources.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\bin\Debug\net6.0-windows\es-es\prospecplus-interface.resources.dll
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\prospecplus_interface.Resources.Strings.es-es.resources
+C:\Users\narut\source\repos\ProspecPlusInterface\obj\Debug\net6.0-windows\es-es\prospecplus-interface.resources.dll

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="entities\Views\carregamento.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="entities\Views\inicio.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="entities\Views\login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="entities\Views\Modals\changelog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="entities\Views\subs\config.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="entities\Views\subs\home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="entities\Views\carregamento.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="entities\Views\inicio.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="entities\Views\login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="entities\Views\Modals\changelog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="entities\Views\subs\config.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="entities\Views\subs\home.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

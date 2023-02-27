@@ -1,0 +1,35 @@
+﻿<Page x:Class="prospecplus_interface.entities.Views.subs.config"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:prospecplus_interface.entities.Views.subs"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="800"
+      Title="config">
+
+    <Grid Background="#FF2F2F2F">
+        <Label x:Name="titulo_configuracao" Content="Configuração do Usuário" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="284" FontSize="24" FontWeight="Medium" Foreground="#FF03D7FF"/>
+        <Label x:Name="subtitulo_quantidade" Content="Quantidade de conexões:" HorizontalAlignment="Left" Margin="10,59,0,0" VerticalAlignment="Top" Width="277" FontSize="22" FontWeight="Medium" Foreground="#FF03D7FF"/>
+        <CheckBox x:Name="_30" Content="30 Conexões" HorizontalAlignment="Left" Margin="26,104,0,0" VerticalAlignment="Top" Width="237" FontSize="22" Foreground="White" Height="28" Checked="_30_Checked"/>
+        <CheckBox x:Name="_50" Content="50 Conexões" HorizontalAlignment="Left" Margin="26,145,0,0" VerticalAlignment="Top" Width="237" FontSize="22" Foreground="White" Height="28" Checked="_50_Checked"/>
+        <CheckBox x:Name="_80" Content="80 Conexões" HorizontalAlignment="Left" Margin="26,182,0,0" VerticalAlignment="Top" Width="237" FontSize="22" Foreground="White" Height="28" Checked="_80_Checked"/>
+        <Label x:Name="subtitulo_tempo" Content="Tempo de executação" Margin="0,59,-28,0" VerticalAlignment="Top" FontSize="22" FontWeight="Medium" Foreground="#FF03D7FF" Height="44" HorizontalAlignment="Right" Width="306"/>
+        <CheckBox x:Name="_5s" Content="5 Segundos" Margin="0,104,27,0" VerticalAlignment="Top" FontSize="22" Foreground="White" Height="28" Checked="_5_Checked" HorizontalAlignment="Right" Width="237"/>
+        <CheckBox x:Name="_10s" Content="10 Segundos" HorizontalAlignment="Right" Margin="0,145,27,0" VerticalAlignment="Top" Width="237" FontSize="22" Foreground="White" Height="28" Checked="_10_Checked"/>
+        <CheckBox x:Name="_20s" Content="20 Segundos" HorizontalAlignment="Right" Margin="0,182,27,0" VerticalAlignment="Top" Width="237" FontSize="22" Foreground="White" Height="28" Checked="_20_Checked"/>
+        <Label x:Name="subtitulo_conexao" Content="Tipo de conexão:" HorizontalAlignment="Right" Margin="0,254,104,0" VerticalAlignment="Top" Width="174" FontSize="22" FontWeight="Medium" Foreground="#FF03D7FF"/>
+        <CheckBox x:Name="sales" Content="Linkedin Sales" HorizontalAlignment="Right" Margin="0,293,90,0" VerticalAlignment="Top" Width="174" FontSize="22" Foreground="White" Height="28" Checked="sales_Checked" />
+        <CheckBox x:Name="normal" Content="Linkedin Normal" HorizontalAlignment="Right" Margin="0,326,64,0" VerticalAlignment="Top" Width="200" FontSize="22" Foreground="White" Height="28" Checked="normal_Checked" IsEnabled="False"/>
+        <Button x:Name="salvar" Content="Salvar" HorizontalAlignment="Center" Margin="0,443,0,0" VerticalAlignment="Top" Width="196" Height="47" Background="#FF03D7FF" FontSize="24" Foreground="White" Click="salvar_Click"/>
+        <Label x:Name="personalizado_text" Content="Personalizado" HorizontalAlignment="Right" Margin="0,215,119,0" VerticalAlignment="Top" Width="150" Foreground="#FFEDEDED" FontSize="22"/>
+        <TextBox x:Name="segundos" HorizontalAlignment="Right" Margin="0,221,10,0" TextWrapping="Wrap" Text="Segundos" VerticalAlignment="Top" Width="109" Height="28" FontSize="18"/>
+        <Label x:Name="personalizado_text1" Content="Personalizado" HorizontalAlignment="Left" Margin="23,215,0,0" VerticalAlignment="Top" Width="150" Foreground="#FFEDEDED" FontSize="22"/>
+        <TextBox x:Name="quantidade" HorizontalAlignment="Left" Margin="173,221,0,0" TextWrapping="Wrap" Text="50" VerticalAlignment="Top" Width="109" Height="28" FontSize="18"/>
+        <Label x:Name="subtitulo_mensagem" Content="Mensagem:" HorizontalAlignment="Left" Margin="11,254,0,0" VerticalAlignment="Top" Width="174" FontSize="22" FontWeight="Medium" Foreground="#FF03D7FF"/>
+        <TextBox x:Name="mensagem" HorizontalAlignment="Left" Margin="26,298,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256" Height="78" UndoLimit="300" AcceptsReturn="True" MaxLength="300"/>
+        <TextBlock x:Name="aviso_mensagem" HorizontalAlignment="Left" Margin="26,381,0,0" TextWrapping="Wrap" Text="Utilize {nome} para substituir os nomes das pessoas" VerticalAlignment="Top" Height="73" Width="237" Foreground="White" FontSize="14"/>
+        <Label Content="Email:" HorizontalAlignment="Right" Margin="0,354,104,0" VerticalAlignment="Top" Width="174" FontSize="22" FontWeight="Medium" Foreground="#FF03D7FF"/>
+        <TextBox x:Name="email" Margin="0,393,54,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="41" FontSize="24" HorizontalAlignment="Right" Width="210"/>
+    </Grid>
+</Page>
